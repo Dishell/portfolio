@@ -15,7 +15,7 @@ const Education = () => {
                     </div>
                     <div className="md:w-3/5">
                         <p className="pt-6 font-body text-lg font-medium text-primary sm:text-xl lg:text-2xl">
-                            Professional Year at Performance Education
+                            Professional Year at Performance Education, Melbourne, Australia
                         </p>
                     </div>
                 </div>
@@ -27,7 +27,7 @@ const Education = () => {
                     </div>
                     <div className="md:w-3/5">
                         <p className="pt-6 font-body text-lg font-medium text-primary sm:text-xl lg:text-2xl">
-                            Bachelor of Information Systems at Performance Education
+                            Bachelor of Information Systems at Holmes Institute, Melbourne, Australia
                         </p>
                     </div>
                 </div>
@@ -39,7 +39,7 @@ const Education = () => {
                     </div>
                     <div className="md:w-3/5">
                         <p className="pt-6 font-body text-lg font-medium text-primary sm:text-xl lg:text-2xl">
-                            Advanced Diploma of Leadership and Management at Lyons College
+                            Advanced Diploma of Leadership and Management at Lyons College, Melbourne, Australia
                         </p>
                     </div>
                 </div>
@@ -51,7 +51,7 @@ const Education = () => {
                     </div>
                     <div className="md:w-3/5">
                         <p className="pt-6 font-body text-lg font-medium text-primary sm:text-xl lg:text-2xl">
-                            Diploma of Leadership and Management at Lyons College
+                            Diploma of Leadership and Management at Lyons College, Melbourne, Australia
                         </p>
                     </div>
                 </div>
@@ -63,7 +63,7 @@ const Education = () => {
                     </div>
                     <div className="md:w-3/5">
                         <p className="pt-6 font-body text-lg font-medium text-primary sm:text-xl lg:text-2xl">
-                            Bachelor of Information Technology at STTS
+                            Bachelor of Information Technology at STTS, Surabaya, Indonesia
                         </p>
                     </div>
                 </div>
