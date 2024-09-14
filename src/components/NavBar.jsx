@@ -35,13 +35,7 @@ const NavBar = () => {
                                 Services
                             </a>
                             <span className="block h-0.5 w-full bg-transparent group-hover:bg-yellow" />
-                        </li> */}
-                        {/* <li className="group pl-6">
-                            <a href='#portfolio' className="cursor-pointer pt-0.5 font-header font-semibold uppercase text-white">
-                                Portfolio
-                            </a>
-                            <span className="block h-0.5 w-full bg-transparent group-hover:bg-yellow" />
-                        </li> */}
+                        </li> */}                        
                         {/* <li className="group pl-6">
                             <a href='#clients' className="cursor-pointer pt-0.5 font-header font-semibold uppercase text-white">
                                 Clients
@@ -51,6 +45,12 @@ const NavBar = () => {
                         <li className="group pl-6">
                             <a href='#skills' className="cursor-pointer pt-0.5 font-header font-semibold uppercase text-white">
                                 Skills
+                            </a>
+                            <span className="block h-0.5 w-full bg-transparent group-hover:bg-yellow" />
+                        </li>
+                        <li className="group pl-6">
+                            <a href='#portfolio' className="cursor-pointer pt-0.5 font-header font-semibold uppercase text-white">
+                                Portfolio
                             </a>
                             <span className="block h-0.5 w-full bg-transparent group-hover:bg-yellow" />
                         </li>

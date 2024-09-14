@@ -10,10 +10,11 @@ const Portfolio = () => {
                 Here's what I have done with the past
             </h3>
             <div className="mx-auto grid w-full grid-cols-1 gap-8 pt-12 sm:w-3/4 md:gap-10 lg:w-full lg:grid-cols-2">
-                <a href="/" className="mx-auto transform transition-all hover:scale-105 md:mx-0" >
-                    <img src="/images/portfolio-apple.jpeg" className="w-full shadow" alt="portfolio" />
+                <a href="https://reservation-4ea14.web.app/" className="mx-auto transform transition-all hover:scale-105 md:mx-0 text-center font-header text-xl font-medium text-black" target="_blank" rel="noopener noreferrer">
+                    <img src="/images/reservation.png" className="w-full shadow" alt="reservation portfolio" />
+                    <p>Landing page for reservation</p>
                 </a>
-                <a href="/" className="mx-auto transform transition-all hover:scale-105 md:mx-0" >
+                {/* <a href="/" className="mx-auto transform transition-all hover:scale-105 md:mx-0" >
                     <img src="/images/portfolio-stripe.jpeg" className="w-full shadow" alt="portfolio" />
                 </a>
                 <a href="/" className="mx-auto transform transition-all hover:scale-105 md:mx-0" >
@@ -21,7 +22,7 @@ const Portfolio = () => {
                 </a>
                 <a href="/" className="mx-auto transform transition-all hover:scale-105 md:mx-0" >
                     <img src="/images/portfolio-microsoft.jpeg" className="w-full shadow" alt="portfolio" />
-                </a>
+                </a> */}
             </div>
         </div>
     )
