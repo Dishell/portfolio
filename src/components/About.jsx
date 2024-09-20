@@ -43,7 +43,7 @@ const About = () => {
                     <div>
                         <div className="flex items-end justify-between">
                             <h4 className="font-body font-semibold uppercase text-black">
-                                HTML5 &amp; CSS3 / Tailwind
+                                HTML5 &amp; CSS3/Tailwind/Bootstrap
                             </h4>
                             <h3 className="font-body text-3xl font-bold text-primary">
                                 75%
@@ -82,7 +82,7 @@ const About = () => {
                     <div className="pt-6">
                         <div className="flex items-end justify-between">
                             <h4 className="font-body font-semibold uppercase text-black">
-                                Python
+                                Python/Java/C#/Node.js
                             </h4>
                             <h3 className="font-body text-3xl font-bold text-primary">
                                 80%
