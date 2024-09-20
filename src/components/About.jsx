@@ -108,14 +108,27 @@ const About = () => {
                     <div className="pt-6">
                         <div className="flex items-end justify-between">
                             <h4 className="font-body font-semibold uppercase text-black">
-                                Testing (REST API/Postman)
+                                Testing (REST API/Postman/Jira)
                             </h4>
                             <h3 className="font-body text-3xl font-bold text-primary">
-                                88%
+                                84%
                             </h3>
                         </div>
                         <div className="mt-2 h-3 w-full rounded-full bg-lila">
-                            <div className="h-3 rounded-full bg-primary" style={{ width: "88%" }} />
+                            <div className="h-3 rounded-full bg-primary" style={{ width: "84%" }} />
+                        </div>
+                    </div>
+                    <div className="pt-6">
+                        <div className="flex items-end justify-between">
+                            <h4 className="font-body font-semibold uppercase text-black">
+                                Data Analytics (Tableau/Power BI)
+                            </h4>
+                            <h3 className="font-body text-3xl font-bold text-primary">
+                                82%
+                            </h3>
+                        </div>
+                        <div className="mt-2 h-3 w-full rounded-full bg-lila">
+                            <div className="h-3 rounded-full bg-primary" style={{ width: "82%" }} />
                         </div>
                     </div>
                     <div className="pt-6">
