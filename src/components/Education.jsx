@@ -10,7 +10,7 @@ const Education = () => {
                 <div className="mt-8 flex flex-col text-center md:flex-row md:text-left">
                     <div className="md:w-2/5">
                         <p className="pt-6 font-body text-lg font-medium text-black sm:text-xl lg:text-2xl">
-                            2024 - Current
+                            2024 - 2024
                         </p>                        
                     </div>
                     <div className="md:w-3/5">

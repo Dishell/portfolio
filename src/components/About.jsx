@@ -9,7 +9,7 @@ const About = () => {
                         Who am I?
                     </h2>
                     <h4 className="pt-6 font-header text-xl font-medium text-black sm:text-2xl lg:text-3xl">
-                        I'm Dionisius Mitchelle Tjahjono, a Full-Stack Developer &amp; Barista
+                        I'm Dionisius Mitchelle Tjahjono, a Full-Stack Developer &amp; Business Analyst &amp; SEO Specialist
                     </h4>
                     <p className="pt-6 font-body leading-relaxed text-grey-20 text-justify">
                         Dion's background showcases his versatility and dedication, with three years of experience across digital marketing, software development, and manufacturing companies. Supported by dual qualifications in Information Technology and Information Systems, he possesses a solid foundation in both technical and theoretical aspects of his field. Dion's strong understanding of the Software Development Life Cycle (SDLC), including waterfall and agile methodologies, enables him to tailor project approaches effectively. His adaptability is evident in his ability to work in various environments, whether remotely or in-office, under supervision or independently. Additionally, Dion's educational background in Leadership and Management has equipped him with advanced teamwork skills, allowing him to collaborate effectively within a team or excel in individual roles. This combination of practical experience, technical expertise, and leadership capabilities positions Dion as a valuable asset capable of tackling diverse challenges, managing projects, and driving success across industries.
@@ -69,7 +69,7 @@ const About = () => {
                     <div className="pt-6">
                         <div className="flex items-end justify-between">
                             <h4 className="font-body font-semibold uppercase text-black">
-                                PHP/Laravel
+                                PHP/Laravel/Wordpress
                             </h4>
                             <h3 className="font-body text-3xl font-bold text-primary">
                                 95%
