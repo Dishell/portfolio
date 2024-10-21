@@ -14,10 +14,11 @@ const Portfolio = () => {
                     <img src="/images/reservation.png" className="w-full shadow" alt="reservation portfolio" />
                     <p>Landing page for reservation</p>
                 </a>
-                {/* <a href="/" className="mx-auto transform transition-all hover:scale-105 md:mx-0" >
-                    <img src="/images/portfolio-stripe.jpeg" className="w-full shadow" alt="portfolio" />
+                <a href="http://windsorpl.com.au/" className="mx-auto transform transition-all hover:scale-105 md:mx-0 text-center font-header text-xl font-medium text-black" target="_blank" rel="noopener noreferrer">
+                    <img src="/images/appointment.png" className="w-full shadow" alt="appointment portfolio" />
+                    <p>Appointment booking for property inspection</p>
                 </a>
-                <a href="/" className="mx-auto transform transition-all hover:scale-105 md:mx-0" >
+                {/* <a href="/" className="mx-auto transform transition-all hover:scale-105 md:mx-0" >
                     <img src="/images/portfolio-fedex.jpeg" className="w-full shadow" alt="portfolio" />
                 </a>
                 <a href="/" className="mx-auto transform transition-all hover:scale-105 md:mx-0" >
