@@ -15,7 +15,39 @@ const Work = () => {
                     <div className="md:w-2/5">
                         <div className="flex justify-center md:justify-start">
                             <span className="shrink-0">
-                                {/* <img src="/images/logo-spotify.svg" className="h-auto w-32" alt="company logo" /> */}
+                                <img src="/images/msd.png" className="h-auto w-32" alt="company logo" />
+                            </span>
+                            <div className="relative ml-3 hidden w-full md:block">
+                                <span className="absolute inset-x-0 top-1/2 h-0.5 -translate-y-1/2 transform bg-grey-70" />
+                            </div>
+                        </div>
+                    </div>
+                    <div className="md:w-3/5">
+                        <div className="relative flex md:pl-18">
+                            <span className="absolute left-8 top-1 hidden h-4 w-4 rounded-full border-2 border-grey-40 bg-white md:block" />
+                            <div className="mt-1 flex">
+                                <i className="bx bxs-right-arrow hidden text-primary md:block" />
+                                <div className="md:-mt-1 md:pl-8">
+                                    <span className="block font-body font-bold text-grey-40">
+                                        Sep 2024 - Present
+                                    </span>
+                                    <span className="block pt-2 font-header text-xl font-bold uppercase text-primary">
+                                        Business Analyst/SEO Specialist
+                                    </span>
+                                    <div className="pt-2">
+                                        <span className="block font-body text-black">
+                                            Dion's role at Mad Scientist Digital involves creating effective banner ads using tools like Canva to drive traffic through targeted links and developing high-quality articles with some tools (Grammarly and Small SEO Tools for plagiarism and grammar checker) to engage audiences. It includes building backlinks (powered by Onlywire, SocialADR, and Backlinks Indexer) by creating links to reputable websites and enhancing SEO efforts. The responsibilities extend to analysing client business websites to identify areas for improvement and assisting in crafting strategic plans to meet client goals. Utilising various tools, Dion conducts detailed audits and reports with SEMRush, Google Analytics 4, and LookerStudio, evaluates the client's online presence, and stays current with trends and performance metrics. Regular participation in business planning meetings using Slack for team communication and attending selected client presentations on Google Meet are also integral parts of the position, ensuring that strategies remain aligned with client objectives and business goals. With a deep understanding of SEO principles, Dion excels at crafting content that is not only engaging but also strategically aligned with search engine algorithms. He is adept at conducting keyword research, optimising meta tags, improving internal linking structures, and enhancing site usability to drive organic traffic and improve rankings. His ability paired with tools like MetaTag Analyser and Google Search Console demonstrates a perfect analysis and enhanced clients' meta descriptions. Dion’s methodical approach and data-driven strategies have consistently delivered measurable results, helping businesses increase visibility and achieve their online goals.
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="mt-8 flex flex-col text-center md:flex-row md:text-left">
+                    <div className="md:w-2/5">
+                        <div className="flex justify-center md:justify-start">
+                            <span className="shrink-0">
                                 <img src="/images/au-79.png" className="h-auto w-32" alt="company logo" />
                             </span>
                             <div className="relative ml-3 hidden w-full md:block">
@@ -30,7 +62,7 @@ const Work = () => {
                                 <i className="bx bxs-right-arrow hidden text-primary md:block" />
                                 <div className="md:-mt-1 md:pl-8">
                                     <span className="block font-body font-bold text-grey-40">
-                                        Sep 2022 - Present
+                                        Sep 2022 - Jan 2025
                                     </span>
                                     <span className="block pt-2 font-header text-xl font-bold uppercase text-primary">
                                         Barista
@@ -49,7 +81,6 @@ const Work = () => {
                     <div className="md:w-2/5">
                         <div className="flex justify-center md:justify-start">
                             <span className="shrink-0">
-                                {/* <img src="/images/logo-microsoft.svg" className="h-auto w-32" alt="company logo" /> */}
                                 <img src="/images/12three-digital.jpg" className="h-auto w-32" alt="company logo" />
                             </span>
                             <div className="relative ml-3 hidden w-full md:block">
@@ -83,7 +114,6 @@ const Work = () => {
                     <div className="md:w-2/5">
                         <div className="flex justify-center md:justify-start">
                             <span className="shrink-0">
-                                {/* <img src="/images/logo-fedex.svg" className="h-auto w-32" alt="company logo" /> */}
                                 <img src="/images/the-studio-beans.png" className="h-auto w-32" alt="company logo" />
                             </span>
                             <div className="relative ml-3 hidden w-full md:block">
@@ -117,7 +147,6 @@ const Work = () => {
                     <div className="md:w-2/5">
                         <div className="flex justify-center md:justify-start">
                             <span className="shrink-0">
-                                {/* <img src="/images/logo-fedex.svg" className="h-auto w-32" alt="company logo" /> */}
                                 <img src="/images/hawker-chan.jpg" className="h-auto w-32" alt="company logo" />
                             </span>
                             <div className="relative ml-3 hidden w-full md:block">
@@ -151,7 +180,6 @@ const Work = () => {
                     <div className="md:w-2/5">
                         <div className="flex justify-center md:justify-start">
                             <span className="shrink-0">
-                                {/* <img src="/images/logo-fedex.svg" className="h-auto w-32" alt="company logo" /> */}
                                 <img src="/images/nusantara-technology.jpg" className="h-auto w-32" alt="company logo" />
                             </span>
                             <div className="relative ml-3 hidden w-full md:block">
@@ -185,7 +213,6 @@ const Work = () => {
                     <div className="md:w-2/5">
                         <div className="flex justify-center md:justify-start">
                             <span className="shrink-0">
-                                {/* <img src="/images/logo-fedex.svg" className="h-auto w-32" alt="company logo" /> */}
                                 <img src="/images/wahana-tunas-utama-rucika.jpg" className="h-auto w-32" alt="company logo" />
                             </span>
                             <div className="relative ml-3 hidden w-full md:block">
